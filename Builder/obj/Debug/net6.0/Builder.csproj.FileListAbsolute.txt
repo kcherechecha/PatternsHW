@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/bin/Debug/net6.0/Builder
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/bin/Debug/net6.0/Builder.deps.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/bin/Debug/net6.0/Builder.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/bin/Debug/net6.0/Builder.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/bin/Debug/net6.0/Builder.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/refint/Builder.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/Builder.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Builder/obj/Debug/net6.0/ref/Builder.dll

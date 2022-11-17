@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/bin/Debug/net6.0/Mediator
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/bin/Debug/net6.0/Mediator.deps.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/bin/Debug/net6.0/Mediator.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/bin/Debug/net6.0/Mediator.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/bin/Debug/net6.0/Mediator.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/refint/Mediator.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/Mediator.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Mediator/obj/Debug/net6.0/ref/Mediator.dll

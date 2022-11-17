@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/bin/Debug/net6.0/Prototype
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/bin/Debug/net6.0/Prototype.deps.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/bin/Debug/net6.0/Prototype.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/bin/Debug/net6.0/Prototype.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/bin/Debug/net6.0/Prototype.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/refint/Prototype.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/Prototype.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/Prototype/obj/Debug/net6.0/ref/Prototype.dll

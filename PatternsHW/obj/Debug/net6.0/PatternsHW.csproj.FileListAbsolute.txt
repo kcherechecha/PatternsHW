@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/bin/Debug/net6.0/PatternsHW
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/bin/Debug/net6.0/PatternsHW.deps.json
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/bin/Debug/net6.0/PatternsHW.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/bin/Debug/net6.0/PatternsHW.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/bin/Debug/net6.0/PatternsHW.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/refint/PatternsHW.dll
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.pdb
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/PatternsHW.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/PatternsHW/PatternsHW/obj/Debug/net6.0/ref/PatternsHW.dll
